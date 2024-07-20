@@ -1,0 +1,1 @@
+The "Bee and Flower RL Visualizer" project demonstrates the application of the Q-Learning algorithm within a grid-based environment. In this simulation, a Bee navigates through a 6x6 grid to reach a Flower while avoiding Monsters. This project provides a practical example of Reinforcement Learning (RL) in action and is visualized using Tkinter to create an interactive experience.
